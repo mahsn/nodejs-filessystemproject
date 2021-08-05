@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-filessystemproject",
+  "version": "1.0.0",
+  "description": "working with files in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahsn/nodejs-filessystemproject.git"
+  },
+  "author": "mahsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahsn/nodejs-filessystemproject/issues"
+  },
+  "homepage": "https://github.com/mahsn/nodejs-filessystemproject#readme"
+}
